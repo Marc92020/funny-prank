@@ -10,4 +10,4 @@ Yes you can! The best way is to email them or write a text message to them.
 ## Does any REAL data get sent to the website?
 No. I don't even know how to create a data sending code. Even if I do learn, I won't implement it to this system so I don't get it shut down.
 ## How much progress is in it?
-I just finished part 1 of the fake sign in. And now i'm trying to get the index.html file on the website
+I made an about Goggl page and a 404 page. I better start making part 2 soon.
