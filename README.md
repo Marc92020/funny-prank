@@ -10,4 +10,4 @@ Yes you can! The best way is to email them or write a text message to them.
 ## Does any REAL data get sent to the website?
 No. I don't even know how to create a data sending code. Even if I do learn, I won't implement it to this system so I don't get it shut down.
 ## How much progress is in it?
-Part 2 has been made. Now I need to finish the scammed page and i'm done!
+It's complete! Now use this to prank people you know!
